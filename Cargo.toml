@@ -1,0 +1,10 @@
+[package]
+name = "cgp-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cgp = { version = "0.1.0" }
+cgp-component-macro = { version = "0.1.0" }
+cgp-core = { version = "0.1.0" }
+cgp-error-eyre = { version = "0.1.0" }
